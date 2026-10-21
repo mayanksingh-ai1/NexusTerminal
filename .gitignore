@@ -1,0 +1,24 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE directories
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs & dependencies (.NET / C#)
+[Bb]in/
+[Oo]bj/
+[Aa]pp[Dd]ata/
+*.nupkg
+
+# Web dependencies & builds
+node_modules/
+dist/
+build/
+*.log
